@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53843276-a63b-4e83-a908-a676091959c2" name="Default Changelist" comment="" />
+    <list default="true" id="53843276-a63b-4e83-a908-a676091959c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/training_condition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_cycles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_js.html" beforeDir="false" afterPath="$PROJECT_DIR$/training_js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/training_js.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +49,28 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.EditorConfig" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="Node.js.training_js.js">
+    <configuration name="training_condition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/training_condition.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="training_cycles.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/training_cycles.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="training_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/training_function.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="training_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/training_js.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.training_js.js" />
+        <item itemvalue="Node.js.training_function.js" />
+        <item itemvalue="Node.js.training_cycles.js" />
+        <item itemvalue="Node.js.training_condition.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,11 +79,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603288485966</updated>
-      <workItem from="1603288487253" duration="2980000" />
+      <workItem from="1603288487253" duration="5568000" />
+      <workItem from="1603348205086" duration="13334000" />
+      <workItem from="1603447204822" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1897" height="109" key="GridCell.Tab.0.bottom" timestamp="1603447767658">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="109" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1603447767658" />
+    <state width="1897" height="109" key="GridCell.Tab.0.center" timestamp="1603447767658">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="109" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1603447767658" />
+    <state width="1897" height="109" key="GridCell.Tab.0.left" timestamp="1603447767658">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="109" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1603447767658" />
+    <state width="1897" height="109" key="GridCell.Tab.0.right" timestamp="1603447767658">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="109" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1603447767658" />
   </component>
 </project>
